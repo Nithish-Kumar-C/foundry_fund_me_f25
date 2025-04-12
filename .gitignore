@@ -14,7 +14,7 @@ docs/
 .env
 
 broadcast/
-lib/
+
 glibc-2.39/
 foundry-zksync/
 
